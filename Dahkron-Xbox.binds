@@ -284,7 +284,10 @@
 	</ToggleFlightAssist>
 	<UseBoostJuice>
 		<Primary Device="Keyboard" Key="Key_Tab" />
-		<Secondary Device="GamePad" Key="GamePad_LThumb" />
+		<Secondary Device="GamePad" Key="GamePad_DPadDown">
+			<Modifier Device="GamePad" Key="GamePad_FaceDown" />
+			<Modifier Device="GamePad" Key="GamePad_FaceLeft" />
+		</Secondary>
 	</UseBoostJuice>
 	<HyperSuperCombination>
 		<Primary Device="Keyboard" Key="Key_J" />
