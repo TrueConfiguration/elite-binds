@@ -1,3 +1,8 @@
+Forked from https://github.com/TrueConfiguration/elite-binds and customized to my own needs.
+I'm also using this repo to backup, store and share my keyboard and Thrustmaster T16k binds.
+---
+
+
 # Dahkron's Elite:Dangerous Binds
 
 ## Rationale
